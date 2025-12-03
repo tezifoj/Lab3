@@ -3,8 +3,6 @@ package classes;
 import enums.Emotion;
 import enums.RecordType;
 import interfaces.PresentWithReproach;
-
-import java.util.ArrayList;
 import java.util.Objects;
 
 public class SeniorPetrushka extends Person implements PresentWithReproach {
